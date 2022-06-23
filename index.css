@@ -1,0 +1,56 @@
+.container {
+  width: 30rem;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: blue;
+  border: 0.5rem solid gold;
+  height: 30rem;
+}
+
+p {
+  color: whitesmoke;
+}
+
+.pokemon {
+  background: rgb(0, 97, 176);
+  height: 10rem;
+  width: 20rem;
+  margin: 2rem auto;
+  border: 0.5rem solid gold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  font-weight: 700;
+  margin-left: 4rem;
+  font-size: 1.5rem;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+
+.ability {
+  margin: 1rem auto;
+}
+
+.move {
+  margin: 1rem auto;
+}
+
+.move2 {
+  margin: 0rem auto;
+}
+
+img {
+  height: 10rem;
+}
+
+button {
+  margin: 1rem 9rem;
+}
